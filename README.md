@@ -1,4 +1,4 @@
-# SNN-Brain-Adaptation-Inspired-Radiation-Robustness
+# SNN-Robustness
 Applies brain inspired adaptation mechanisms to increase the radiation robustness of spiking neural networks.
 
 ## Note
